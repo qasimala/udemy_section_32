@@ -1,0 +1,19 @@
+{
+  "name": "udemy_section_32",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qasimala/udemy_section_32.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qasimala/udemy_section_32/issues"
+  },
+  "homepage": "https://github.com/qasimala/udemy_section_32#readme"
+}
